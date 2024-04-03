@@ -1,7 +1,7 @@
 # Kommunicate Assignment
 
 ### Task 1 : Design the below screen using HTML and CSS, without using any external libraries
-submission : 
+submission : https://thakaresakshi.github.io/Kommunicate/
 
 ### task 2: Complete the following javascript function that accepts the url and the parameter name and returns the value of that parameter.
 
